@@ -21,7 +21,7 @@
                 <valor>1.19</valor>
                 <valor>1.19</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -42,7 +42,7 @@
                 <valor>1.27</valor>
                 <valor>1.27</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -63,7 +63,7 @@
                 <valor>1.936</valor>
                 <valor>1.936</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -84,7 +84,7 @@
                 <valor>1.141</valor>
                 <valor>1.141</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
 </agentes>

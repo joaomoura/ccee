@@ -21,7 +21,7 @@ import com.ccee.api.message.ResponseMessage;
 import com.ccee.api.service.FilesStorageService;
 
 @RestController
-@CrossOrigin("http://localhost:8081")
+@CrossOrigin("http://localhost:4200")
 public class HelloController {
 
     @Autowired

@@ -32,12 +32,6 @@ public class FilesStorageServiceImplement implements FilesStorageService {
 
     private final Path root = Paths.get("src/main/resources/uploads");
 
-    private static final String PATHNAME = "src/main/resources/uploads/";
-
-    private static final String FILENAME = "src/main/resources/uploads/staff-simple.xml";
-    // xslt for pretty print only, no special task
-    // private static final String FORMAT_XSLT = "src/main/resources/uploads/staff-format.xslt";
-
     @Override
     public void init() {
         try {

@@ -21,7 +21,7 @@
                 <valor>1.471</valor>
                 <valor>1.471</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -42,7 +42,7 @@
                 <valor>1.391</valor>
                 <valor>1.391</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -63,7 +63,7 @@
                 <valor>1.414</valor>
                 <valor>1.414</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -84,7 +84,7 @@
                 <valor>1.477</valor>
                 <valor>1.477</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -109,7 +109,7 @@
                 <valor>2.4</valor>
                 <valor>2.4</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -130,7 +130,7 @@
                 <valor>2.135</valor>
                 <valor>2.135</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -151,7 +151,7 @@
                 <valor>2.828</valor>
                 <valor>2.828</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -172,7 +172,7 @@
                 <valor>2.441</valor>
                 <valor>2.441</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -197,7 +197,7 @@
                 <valor>3.554</valor>
                 <valor>3.554</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -218,7 +218,7 @@
                 <valor>3.983</valor>
                 <valor>3.983</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -239,7 +239,7 @@
                 <valor>3.978</valor>
                 <valor>3.978</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -260,7 +260,7 @@
                 <valor>3.104</valor>
                 <valor>3.104</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -285,7 +285,7 @@
                 <valor>4.72</valor>
                 <valor>4.72</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -306,7 +306,7 @@
                 <valor>4.765</valor>
                 <valor>4.765</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -327,7 +327,7 @@
                 <valor>4.11</valor>
                 <valor>4.11</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -348,7 +348,7 @@
                 <valor>4.36</valor>
                 <valor>4.36</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -373,7 +373,7 @@
                 <valor>5.981</valor>
                 <valor>5.981</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -394,7 +394,7 @@
                 <valor>5.728</valor>
                 <valor>5.728</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -415,7 +415,7 @@
                 <valor>5.912</valor>
                 <valor>5.912</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -436,7 +436,7 @@
                 <valor>5.12</valor>
                 <valor>5.12</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -461,7 +461,7 @@
                 <valor>6.964</valor>
                 <valor>6.964</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -482,7 +482,7 @@
                 <valor>6.614</valor>
                 <valor>6.614</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -503,7 +503,7 @@
                 <valor>6.875</valor>
                 <valor>6.875</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -524,7 +524,7 @@
                 <valor>6.855</valor>
                 <valor>6.855</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -549,7 +549,7 @@
                 <valor>7.856</valor>
                 <valor>7.856</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -570,7 +570,7 @@
                 <valor>7.51</valor>
                 <valor>7.51</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -591,7 +591,7 @@
                 <valor>7.326</valor>
                 <valor>7.326</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -612,7 +612,7 @@
                 <valor>7.965</valor>
                 <valor>7.965</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -637,7 +637,7 @@
                 <valor>8.56</valor>
                 <valor>8.56</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -658,7 +658,7 @@
                 <valor>8.431</valor>
                 <valor>8.431</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -679,7 +679,7 @@
                 <valor>8.712</valor>
                 <valor>8.712</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -700,7 +700,7 @@
                 <valor>8.828</valor>
                 <valor>8.828</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -725,7 +725,7 @@
                 <valor>9.387</valor>
                 <valor>9.387</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -746,7 +746,7 @@
                 <valor>9.797</valor>
                 <valor>9.797</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -767,7 +767,7 @@
                 <valor>9.1</valor>
                 <valor>9.1</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -788,7 +788,7 @@
                 <valor>9.728</valor>
                 <valor>9.728</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -813,7 +813,7 @@
                 <valor>10.829</valor>
                 <valor>10.829</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -834,7 +834,7 @@
                 <valor>10.956</valor>
                 <valor>10.956</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -855,7 +855,7 @@
                 <valor>10.675</valor>
                 <valor>10.675</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -876,7 +876,7 @@
                 <valor>10.702</valor>
                 <valor>10.702</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -901,7 +901,7 @@
                 <valor>11.126</valor>
                 <valor>11.126</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -922,7 +922,7 @@
                 <valor>11.771</valor>
                 <valor>11.771</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -943,7 +943,7 @@
                 <valor>11.13</valor>
                 <valor>11.13</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -964,7 +964,7 @@
                 <valor>11.962</valor>
                 <valor>11.962</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -989,7 +989,7 @@
                 <valor>12.872</valor>
                 <valor>12.872</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1010,7 +1010,7 @@
                 <valor>12.12</valor>
                 <valor>12.12</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1031,7 +1031,7 @@
                 <valor>12.521</valor>
                 <valor>12.521</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1052,7 +1052,7 @@
                 <valor>12.339</valor>
                 <valor>12.339</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1077,7 +1077,7 @@
                 <valor>13.385</valor>
                 <valor>13.385</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1098,7 +1098,7 @@
                 <valor>13.811</valor>
                 <valor>13.811</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1119,7 +1119,7 @@
                 <valor>13.511</valor>
                 <valor>13.511</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1140,7 +1140,7 @@
                 <valor>13.47</valor>
                 <valor>13.47</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1165,7 +1165,7 @@
                 <valor>14.685</valor>
                 <valor>14.685</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1186,7 +1186,7 @@
                 <valor>14.856</valor>
                 <valor>14.856</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1207,7 +1207,7 @@
                 <valor>14.126</valor>
                 <valor>14.126</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1228,7 +1228,7 @@
                 <valor>14.265</valor>
                 <valor>14.265</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1253,7 +1253,7 @@
                 <valor>15.563</valor>
                 <valor>15.563</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1274,7 +1274,7 @@
                 <valor>15.22</valor>
                 <valor>15.22</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1295,7 +1295,7 @@
                 <valor>15.439</valor>
                 <valor>15.439</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1316,7 +1316,7 @@
                 <valor>15.557</valor>
                 <valor>15.557</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1341,7 +1341,7 @@
                 <valor>16.545</valor>
                 <valor>16.545</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1362,7 +1362,7 @@
                 <valor>16.807</valor>
                 <valor>16.807</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1383,7 +1383,7 @@
                 <valor>16.681</valor>
                 <valor>16.681</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1404,7 +1404,7 @@
                 <valor>16.27</valor>
                 <valor>16.27</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1429,7 +1429,7 @@
                 <valor>17.371</valor>
                 <valor>17.371</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1450,7 +1450,7 @@
                 <valor>17.322</valor>
                 <valor>17.322</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1471,7 +1471,7 @@
                 <valor>17.253</valor>
                 <valor>17.253</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1492,7 +1492,7 @@
                 <valor>17.328</valor>
                 <valor>17.328</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1517,7 +1517,7 @@
                 <valor>18.127</valor>
                 <valor>18.127</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1538,7 +1538,7 @@
                 <valor>18.42</valor>
                 <valor>18.42</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1559,7 +1559,7 @@
                 <valor>18.74</valor>
                 <valor>18.74</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1580,7 +1580,7 @@
                 <valor>18.206</valor>
                 <valor>18.206</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1605,7 +1605,7 @@
                 <valor>19.175</valor>
                 <valor>19.175</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1626,7 +1626,7 @@
                 <valor>19.332</valor>
                 <valor>19.332</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1647,7 +1647,7 @@
                 <valor>19.917</valor>
                 <valor>19.917</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1668,7 +1668,7 @@
                 <valor>19.172</valor>
                 <valor>19.172</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1693,7 +1693,7 @@
                 <valor>20.7</valor>
                 <valor>20.7</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1714,7 +1714,7 @@
                 <valor>20.697</valor>
                 <valor>20.697</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1735,7 +1735,7 @@
                 <valor>20.554</valor>
                 <valor>20.554</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1756,7 +1756,7 @@
                 <valor>20.135</valor>
                 <valor>20.135</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1781,7 +1781,7 @@
                 <valor>21.945</valor>
                 <valor>21.945</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1802,7 +1802,7 @@
                 <valor>21.616</valor>
                 <valor>21.616</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1823,7 +1823,7 @@
                 <valor>21.72</valor>
                 <valor>21.72</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1844,7 +1844,7 @@
                 <valor>21.439</valor>
                 <valor>21.439</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1869,7 +1869,7 @@
                 <valor>22.7</valor>
                 <valor>22.7</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1890,7 +1890,7 @@
                 <valor>22.126</valor>
                 <valor>22.126</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1911,7 +1911,7 @@
                 <valor>22.327</valor>
                 <valor>22.327</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -1932,7 +1932,7 @@
                 <valor>22.667</valor>
                 <valor>22.667</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -1957,7 +1957,7 @@
                 <valor>23.538</valor>
                 <valor>23.538</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -1978,7 +1978,7 @@
                 <valor>23.24</valor>
                 <valor>23.24</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -1999,7 +1999,7 @@
                 <valor>23.718</valor>
                 <valor>23.718</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2020,7 +2020,7 @@
                 <valor>23.879</valor>
                 <valor>23.879</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2045,7 +2045,7 @@
                 <valor>24.695</valor>
                 <valor>24.695</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2066,7 +2066,7 @@
                 <valor>24.532</valor>
                 <valor>24.532</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2087,7 +2087,7 @@
                 <valor>24.347</valor>
                 <valor>24.347</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2108,7 +2108,7 @@
                 <valor>24.555</valor>
                 <valor>24.555</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2133,7 +2133,7 @@
                 <valor>25.297</valor>
                 <valor>25.297</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2154,7 +2154,7 @@
                 <valor>25.95</valor>
                 <valor>25.95</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2175,7 +2175,7 @@
                 <valor>25.836</valor>
                 <valor>25.836</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2196,7 +2196,7 @@
                 <valor>25.499</valor>
                 <valor>25.499</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2221,7 +2221,7 @@
                 <valor>26.391</valor>
                 <valor>26.391</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2242,7 +2242,7 @@
                 <valor>26.14</valor>
                 <valor>26.14</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2263,7 +2263,7 @@
                 <valor>26.131</valor>
                 <valor>26.131</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2284,7 +2284,7 @@
                 <valor>26.271</valor>
                 <valor>26.271</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2309,7 +2309,7 @@
                 <valor>27.188</valor>
                 <valor>27.188</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2330,7 +2330,7 @@
                 <valor>27.951</valor>
                 <valor>27.951</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2351,7 +2351,7 @@
                 <valor>27.917</valor>
                 <valor>27.917</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2372,7 +2372,7 @@
                 <valor>27.365</valor>
                 <valor>27.365</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2397,7 +2397,7 @@
                 <valor>28.778</valor>
                 <valor>28.778</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2418,7 +2418,7 @@
                 <valor>28.492</valor>
                 <valor>28.492</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2439,7 +2439,7 @@
                 <valor>28.26</valor>
                 <valor>28.26</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2460,7 +2460,7 @@
                 <valor>28.348</valor>
                 <valor>28.348</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2485,7 +2485,7 @@
                 <valor>29.974</valor>
                 <valor>29.974</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2506,7 +2506,7 @@
                 <valor>29.143</valor>
                 <valor>29.143</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2527,7 +2527,7 @@
                 <valor>29.28</valor>
                 <valor>29.28</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2548,7 +2548,7 @@
                 <valor>29.553</valor>
                 <valor>29.553</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2573,7 +2573,7 @@
                 <valor>30.286</valor>
                 <valor>30.286</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2594,7 +2594,7 @@
                 <valor>30.592</valor>
                 <valor>30.592</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2615,7 +2615,7 @@
                 <valor>30.907</valor>
                 <valor>30.907</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2636,7 +2636,7 @@
                 <valor>30.545</valor>
                 <valor>30.545</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2661,7 +2661,7 @@
                 <valor>31.133</valor>
                 <valor>31.133</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2682,7 +2682,7 @@
                 <valor>31.68</valor>
                 <valor>31.68</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2703,7 +2703,7 @@
                 <valor>31.561</valor>
                 <valor>31.561</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2724,7 +2724,7 @@
                 <valor>31.688</valor>
                 <valor>31.688</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2749,7 +2749,7 @@
                 <valor>32.244</valor>
                 <valor>32.244</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2770,7 +2770,7 @@
                 <valor>32.923</valor>
                 <valor>32.923</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2791,7 +2791,7 @@
                 <valor>32.924</valor>
                 <valor>32.924</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2812,7 +2812,7 @@
                 <valor>32.438</valor>
                 <valor>32.438</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2837,7 +2837,7 @@
                 <valor>33.52</valor>
                 <valor>33.52</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2858,7 +2858,7 @@
                 <valor>33.11</valor>
                 <valor>33.11</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2879,7 +2879,7 @@
                 <valor>33.882</valor>
                 <valor>33.882</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2900,7 +2900,7 @@
                 <valor>33.783</valor>
                 <valor>33.783</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -2925,7 +2925,7 @@
                 <valor>34.606</valor>
                 <valor>34.606</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -2946,7 +2946,7 @@
                 <valor>34.969</valor>
                 <valor>34.969</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -2967,7 +2967,7 @@
                 <valor>34.431</valor>
                 <valor>34.431</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -2988,7 +2988,7 @@
                 <valor>34.243</valor>
                 <valor>34.243</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3013,7 +3013,7 @@
                 <valor>35.996</valor>
                 <valor>35.996</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3034,7 +3034,7 @@
                 <valor>35.766</valor>
                 <valor>35.766</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3055,7 +3055,7 @@
                 <valor>35.661</valor>
                 <valor>35.661</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3076,7 +3076,7 @@
                 <valor>35.316</valor>
                 <valor>35.316</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3101,7 +3101,7 @@
                 <valor>36.6</valor>
                 <valor>36.6</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3122,7 +3122,7 @@
                 <valor>36.137</valor>
                 <valor>36.137</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3143,7 +3143,7 @@
                 <valor>36.54</valor>
                 <valor>36.54</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3164,7 +3164,7 @@
                 <valor>36.949</valor>
                 <valor>36.949</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3189,7 +3189,7 @@
                 <valor>37.499</valor>
                 <valor>37.499</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3210,7 +3210,7 @@
                 <valor>37.148</valor>
                 <valor>37.148</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3231,7 +3231,7 @@
                 <valor>37.573</valor>
                 <valor>37.573</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3252,7 +3252,7 @@
                 <valor>37.752</valor>
                 <valor>37.752</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3277,7 +3277,7 @@
                 <valor>38.904</valor>
                 <valor>38.904</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3298,7 +3298,7 @@
                 <valor>38.707</valor>
                 <valor>38.707</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3319,7 +3319,7 @@
                 <valor>38.96</valor>
                 <valor>38.96</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3340,7 +3340,7 @@
                 <valor>38.87</valor>
                 <valor>38.87</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3365,7 +3365,7 @@
                 <valor>39.296</valor>
                 <valor>39.296</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3386,7 +3386,7 @@
                 <valor>39.692</valor>
                 <valor>39.692</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3407,7 +3407,7 @@
                 <valor>39.488</valor>
                 <valor>39.488</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3428,7 +3428,7 @@
                 <valor>39.953</valor>
                 <valor>39.953</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3453,7 +3453,7 @@
                 <valor>40.225</valor>
                 <valor>40.225</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3474,7 +3474,7 @@
                 <valor>40.695</valor>
                 <valor>40.695</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3495,7 +3495,7 @@
                 <valor>40.31</valor>
                 <valor>40.31</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3516,7 +3516,7 @@
                 <valor>40.712</valor>
                 <valor>40.712</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3541,7 +3541,7 @@
                 <valor>41.396</valor>
                 <valor>41.396</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3562,7 +3562,7 @@
                 <valor>41.557</valor>
                 <valor>41.557</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3583,7 +3583,7 @@
                 <valor>41.406</valor>
                 <valor>41.406</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3604,7 +3604,7 @@
                 <valor>41.182</valor>
                 <valor>41.182</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3629,7 +3629,7 @@
                 <valor>42.346</valor>
                 <valor>42.346</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3650,7 +3650,7 @@
                 <valor>42.903</valor>
                 <valor>42.903</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3671,7 +3671,7 @@
                 <valor>42.134</valor>
                 <valor>42.134</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3692,7 +3692,7 @@
                 <valor>42.413</valor>
                 <valor>42.413</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3717,7 +3717,7 @@
                 <valor>43.345</valor>
                 <valor>43.345</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3738,7 +3738,7 @@
                 <valor>43.705</valor>
                 <valor>43.705</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3759,7 +3759,7 @@
                 <valor>43.693</valor>
                 <valor>43.693</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3780,7 +3780,7 @@
                 <valor>43.645</valor>
                 <valor>43.645</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3805,7 +3805,7 @@
                 <valor>44.45</valor>
                 <valor>44.45</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3826,7 +3826,7 @@
                 <valor>44.654</valor>
                 <valor>44.654</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3847,7 +3847,7 @@
                 <valor>44.89</valor>
                 <valor>44.89</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3868,7 +3868,7 @@
                 <valor>44.434</valor>
                 <valor>44.434</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3893,7 +3893,7 @@
                 <valor>45.898</valor>
                 <valor>45.898</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -3914,7 +3914,7 @@
                 <valor>45.633</valor>
                 <valor>45.633</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -3935,7 +3935,7 @@
                 <valor>45.154</valor>
                 <valor>45.154</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -3956,7 +3956,7 @@
                 <valor>45.771</valor>
                 <valor>45.771</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -3981,7 +3981,7 @@
                 <valor>46.448</valor>
                 <valor>46.448</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4002,7 +4002,7 @@
                 <valor>46.985</valor>
                 <valor>46.985</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4023,7 +4023,7 @@
                 <valor>46.81</valor>
                 <valor>46.81</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4044,7 +4044,7 @@
                 <valor>46.229</valor>
                 <valor>46.229</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4069,7 +4069,7 @@
                 <valor>47.283</valor>
                 <valor>47.283</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4090,7 +4090,7 @@
                 <valor>47.526</valor>
                 <valor>47.526</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4111,7 +4111,7 @@
                 <valor>47.745</valor>
                 <valor>47.745</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4132,7 +4132,7 @@
                 <valor>47.68</valor>
                 <valor>47.68</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4157,7 +4157,7 @@
                 <valor>48.704</valor>
                 <valor>48.704</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4178,7 +4178,7 @@
                 <valor>48.295</valor>
                 <valor>48.295</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4199,7 +4199,7 @@
                 <valor>48.323</valor>
                 <valor>48.323</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4220,7 +4220,7 @@
                 <valor>48.2</valor>
                 <valor>48.2</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4245,7 +4245,7 @@
                 <valor>49.51</valor>
                 <valor>49.51</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4266,7 +4266,7 @@
                 <valor>49.98</valor>
                 <valor>49.98</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4287,7 +4287,7 @@
                 <valor>49.956</valor>
                 <valor>49.956</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4308,7 +4308,7 @@
                 <valor>49.541</valor>
                 <valor>49.541</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4333,7 +4333,7 @@
                 <valor>50.64</valor>
                 <valor>50.64</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4354,7 +4354,7 @@
                 <valor>50.733</valor>
                 <valor>50.733</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4375,7 +4375,7 @@
                 <valor>50.346</valor>
                 <valor>50.346</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4396,7 +4396,7 @@
                 <valor>50.185</valor>
                 <valor>50.185</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4421,7 +4421,7 @@
                 <valor>51.735</valor>
                 <valor>51.735</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4442,7 +4442,7 @@
                 <valor>51.667</valor>
                 <valor>51.667</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4463,7 +4463,7 @@
                 <valor>51.174</valor>
                 <valor>51.174</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4484,7 +4484,7 @@
                 <valor>51.764</valor>
                 <valor>51.764</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4509,7 +4509,7 @@
                 <valor>52.74</valor>
                 <valor>52.74</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4530,7 +4530,7 @@
                 <valor>52.812</valor>
                 <valor>52.812</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4551,7 +4551,7 @@
                 <valor>52.811</valor>
                 <valor>52.811</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4572,7 +4572,7 @@
                 <valor>52.558</valor>
                 <valor>52.558</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4597,7 +4597,7 @@
                 <valor>53.798</valor>
                 <valor>53.798</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4618,7 +4618,7 @@
                 <valor>53.594</valor>
                 <valor>53.594</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4639,7 +4639,7 @@
                 <valor>53.544</valor>
                 <valor>53.544</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4660,7 +4660,7 @@
                 <valor>53.225</valor>
                 <valor>53.225</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4685,7 +4685,7 @@
                 <valor>54.128</valor>
                 <valor>54.128</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4706,7 +4706,7 @@
                 <valor>54.29</valor>
                 <valor>54.29</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4727,7 +4727,7 @@
                 <valor>54.824</valor>
                 <valor>54.824</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4748,7 +4748,7 @@
                 <valor>54.948</valor>
                 <valor>54.948</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4773,7 +4773,7 @@
                 <valor>55.606</valor>
                 <valor>55.606</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4794,7 +4794,7 @@
                 <valor>55.837</valor>
                 <valor>55.837</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4815,7 +4815,7 @@
                 <valor>55.147</valor>
                 <valor>55.147</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4836,7 +4836,7 @@
                 <valor>55.986</valor>
                 <valor>55.986</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4861,7 +4861,7 @@
                 <valor>56.27</valor>
                 <valor>56.27</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4882,7 +4882,7 @@
                 <valor>56.491</valor>
                 <valor>56.491</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4903,7 +4903,7 @@
                 <valor>56.366</valor>
                 <valor>56.366</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -4924,7 +4924,7 @@
                 <valor>56.469</valor>
                 <valor>56.469</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -4949,7 +4949,7 @@
                 <valor>57.399</valor>
                 <valor>57.399</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -4970,7 +4970,7 @@
                 <valor>57.88</valor>
                 <valor>57.88</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -4991,7 +4991,7 @@
                 <valor>57.527</valor>
                 <valor>57.527</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -5012,7 +5012,7 @@
                 <valor>57.186</valor>
                 <valor>57.186</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
     <agente>
@@ -5037,7 +5037,7 @@
                 <valor>58.648</valor>
                 <valor>58.648</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="S">
             <geracao>
@@ -5058,7 +5058,7 @@
                 <valor>58.819</valor>
                 <valor>58.819</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="NE">
             <geracao>
@@ -5079,7 +5079,7 @@
                 <valor>58.714</valor>
                 <valor>58.714</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
         <regiao sigla="N">
             <geracao>
@@ -5100,7 +5100,7 @@
                 <valor>58.493</valor>
                 <valor>58.493</valor>
             </compra>
-            <precoMedio> </precoMedio>
+            
         </regiao>
     </agente>
 </agentes>
