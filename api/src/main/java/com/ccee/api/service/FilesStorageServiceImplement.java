@@ -10,6 +10,8 @@ import java.util.ArrayList;
 import java.util.stream.Stream;
 
 import com.ccee.api.Agente;
+import com.ccee.api.repository.FileDBRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.stereotype.Service;
@@ -27,10 +29,37 @@ import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
+import java.io.IOException;
+import org.springframework.util.StringUtils;
+
+import com.ccee.api.model.FileDB;
+import com.ccee.api.repository.FileDBRepository;
+
 @Service
 public class FilesStorageServiceImplement implements FilesStorageService {
 
     private final Path root = Paths.get("src/main/resources/uploads");
+
+    @Autowired
+    private FileDBRepository fileDBRepository;
+
+    @Override
+    public FileDB store(MultipartFile file) throws IOException {
+        String fileName = StringUtils.cleanPath(file.getOriginalFilename());
+        FileDB FileDB = new FileDB(fileName, file.getContentType(), file.getBytes());
+
+        return fileDBRepository.save(FileDB);
+    }
+
+    @Override
+    public FileDB getFile(String id) {
+        return fileDBRepository.findById(id).get();
+    }
+
+    @Override
+    public Stream<FileDB> getAllFiles() {
+        return fileDBRepository.findAll().stream();
+    }
 
     @Override
     public void init() {
